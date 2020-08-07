@@ -16,7 +16,7 @@
 
 ---
 ## Acceptance Criteria
-
+I refactored this code here is the acceptance criteria
 ```
 GIVEN a webpage meets accessibility standards
 
